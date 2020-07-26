@@ -14,7 +14,7 @@ gem 'fume-settable', '0.0.3' #settings plugin for read on yaml, ruby, database, 
 gem 'will_paginate', '3.1.0' #数据分页
 gem 'to_xls-rails', '1.3.1' # export xls data
 gem 'qiniu', '6.8.0' #http://developer.qiniu.com/code/v6/sdk/ruby.html file upload cdn
-gem 'puma', '3.6.0' #Server
+gem 'puma', '3.12.6' #Server
 gem 'bcrypt', '3.1.10'# Use ActiveModel has_secure_password
 gem 'cancancan', '1.15.0' # User authorization
 gem 'devise','3.4.0' # User authentication
