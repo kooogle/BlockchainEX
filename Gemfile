@@ -18,7 +18,7 @@ gem 'puma', '3.6.0' #Server
 gem 'bcrypt', '3.1.10'# Use ActiveModel has_secure_password
 gem 'cancancan', '1.15.0' # User authorization
 gem 'devise','3.4.0' # User authentication
-gem 'nokogiri', '1.8.0' # HTML 解析
+gem 'nokogiri', '1.10.8' # HTML 解析
 gem 'daemons-rails', '1.2.1' #进程管理
 gem 'enumerize', '2.2.2' # 多标签选项
 gem 'aasm', '5.0.1' #状态管理
