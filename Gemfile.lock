@@ -197,7 +197,7 @@ GEM
       mime-types (>= 2.4.0)
       rest-client (~> 1.8.0)
       ruby-hmac (~> 0.4)
-    rack (1.6.11)
+    rack (1.6.13)
     rack-protection (2.0.5)
       rack
     rack-test (0.6.3)
